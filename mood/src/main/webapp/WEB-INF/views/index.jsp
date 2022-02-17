@@ -48,7 +48,7 @@
 					<div id="bannerBox">
 						<img src="images/paper.jpg" alt="banner-background">
 						<h1>오늘 하루도 수고하셨어요.<br>이제 편히 쉬면서 하루를 마무리해 보세요.</h1>
-						<!-- <p>살야야 할 이유를 아는 사람은 어떠한 상황도 견딜 수 있다. - 니체</p> -->
+						<p>살야야 할 이유를 아는 사람은 어떠한 상황도 견딜 수 있다. - 니체</p>
 					</div>
 				</article>
 				<article id="calendar">
